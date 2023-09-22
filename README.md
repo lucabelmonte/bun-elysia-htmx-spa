@@ -1,4 +1,8 @@
-# test_elysia
+# BEH stack
+
+ - [Bun](https://bun.sh/)
+ - [Elysia](https://elysiajs.com/)
+ - [HTMX](https://htmx.org/)
 
 To install dependencies:
 
